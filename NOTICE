@@ -1,0 +1,7 @@
+
+This curated package retains only modules imported by OpenAI's Jacobsthal proof.
+Original package: https://github.com/AlexKontorovich/PrimeNumberTheoremAnd.git
+Original commit: c39a751132c88b6e8080b74c74023fd95b3d8be0
+The substantive OpenAI compatibility patch is from openai/math commit 1581d4cbdd69a0faf34b2089614fe2a814316a6a.
+Original notices and upstream Apache 2.0 license are retained.
+No new mathematics is claimed. This Lean 4.35 compatibility package is a candidate until the parent proof CI passes.
